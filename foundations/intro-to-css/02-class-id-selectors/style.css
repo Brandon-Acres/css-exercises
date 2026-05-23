@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odds {
+    background: hsl(0, 76%, 83%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: #1d1d53;
+    font-size: 36px;
+}
+
+.extra-odd {
+    font-size: 24px;
+}
+
+#num4 {
+    background:rgb(166, 212, 169);
+    font-weight: bold;
+    font-size: 24px;
+}
