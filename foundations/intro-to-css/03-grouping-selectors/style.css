@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/* shared - but meant to use the grouping combinator ,
+.font-style {
+    
+}
+*/
+
+/*Individual classes */
+.click-me {
+    color: white;
+    background: rgb(31, 29, 29);
+}
+
+.no-click-me {
+    background: rgb(255, 192, 56);
+}
+
+/* use grouping instead fix this!!*/
+
+.click-me, .no-click-me {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
